@@ -11,7 +11,7 @@
     background: hsla(193, 100%, 96%);
     background-image: url(./images/bg-hero-desktop.svg);
     padding-top: 1rem;
-    width: 80%;
+    
 }
 
 
@@ -57,21 +57,21 @@ p{
 
 .second-section{
     box-shadow: 10px 10px 10px grey;
-    /* margin-left: 10rem; */
+    /* margin-left: 20rem; */
     justify-content: center;
     align-items: center;
     border-radius: 2rem;
-    width: 70%;
+    width: 80%;
     
     
 }
 .third-section{
     box-shadow: 10px 10px 10px grey;
-    /* margin-left: 10rem; */
+    /* margin-left: 20rem; */
     justify-content: center;
     align-items: center;
     border-radius: 2rem;
-    width: 70%;
+    width: 80%;
     
     
 }
