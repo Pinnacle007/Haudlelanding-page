@@ -77,9 +77,11 @@ p{
     align-items: center;
     border-radius: 2rem;
     width: 80%;
-    position: sticky;
+    /* position: sticky;
     left: 100px;
-    
+     */
+     /* justify-tracks: flex-end; */
+     translate: 50px 0;
     
 }
 .third-section{
@@ -89,8 +91,9 @@ p{
     align-items: center;
     border-radius: 2rem;
     width: 80%;
-    position: sticky;
-    left: 100px;
+    /* position: sticky;
+    left: 100px; */
+    translate: 50px 0;
     
     
 }
@@ -99,12 +102,19 @@ p{
     /* margin-left: 20rem; */
     border-radius: 2rem;
     width: 80%;
-    position: sticky;
-    left: 100px;
+    /* position: sticky; */
+    /* left: 100px; */
+    translate: 50px 0;
     
 }
 .together{
     padding-top: 10rem;
 }
 
+.card-section{
+   width: fit-content;
+   justify-self: center;
+ 
+
+}
 
